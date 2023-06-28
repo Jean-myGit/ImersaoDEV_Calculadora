@@ -5,4 +5,4 @@
 <br>
 
 <p>Projeto Realizado:</p>
-<p>https://jean-mygit.github.io/ImersaoDEV_Calculadora</p>
+<p>https://jeandacosta.github.io/ImersaoDEV_Calculadora/</p>
