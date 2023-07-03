@@ -1,8 +1,8 @@
-<h2>Imersao DEV - Calculadora </h2>
+<h2>Calculadora Web</h2>
 
-<p>Projeto proposto pela Alura em sua Imersão DEV em março de 2021</p>
-<p>Link da proposta: https://imersao.dev/aulas/aula02-calculadora-condicionais</p>
-<br>
+<p>
+Calculadora Web: uma calculadora interativa desenvolvida utilizando <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>. Com uma interface intuitiva, esta calculadora permite realizar operações matemáticas básicas de forma rápida e eficiente. Aproveite sua funcionalidade versátil para cálculos do dia a dia. Um projeto ideal para aprimorar habilidades em desenvolvimento web <strong>front-end</strong>.
+</p>
 
-<p>Projeto Realizado:</p>
+<p>Projeto:</p>
 <p>https://jeandacosta.github.io/ImersaoDEV_Calculadora/</p>
